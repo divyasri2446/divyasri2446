@@ -14,7 +14,7 @@ while(True):
     build()
     improve()
 ```
-- 🎓 AI & Data Science Undergraduate at VIIT, Visakhapatnam
+- 🎓 AI & Data Science Undergraduate at VIIT, Visakhapatnam | CGPA: 9.56
 - 💻 Interested in AI Systems, Generative AI, and Problem Solving
 - 🧠 Exploring Machine Learning, LLMs, RAG, and AI Engineering
 - ⭐ 2★ CodeChef | 🌍 Top 28% on LeetCode
