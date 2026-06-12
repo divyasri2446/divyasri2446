@@ -40,7 +40,7 @@ while(True):
 
 # 📌 Featured Projects
 
-## 🚗 Road Accident Detection & Alert System
+## 🚗 AccidentSense - An accident detection system
 
 * Built a real-time accident detection system using TensorFlow and OpenCV
 * Integrated emergency alert functionality with GPS-based location tracking
