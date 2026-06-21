@@ -1,109 +1,121 @@
-# Hi 👋 I'm Paruvada Divya Sri
+<div align="center">
 
-### AI & Data Science Undergraduate | Problem Solver | GenAI Explorer 🚀
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=90&lines=Hey+there%2C+I'm+Divya+Sri+✦;AI+%2B+Quantum+Explorer+⚛️;Building+what+matters+🛠️)
 
-🎓 Artificial Intelligence & Data Science Undergraduate
-💡 Interested in AI Systems, Machine Learning, Generative AI, and Problem Solving
-💻 Passionate about building intelligent and practical technology solutions
+</div>
 
----
-## 🚀 About Me
+<br/>
+
 ```python
-while(True):
-    learn()
-    build()
-    improve()
+class DivyaSri:
+    role       = "AI & Data Science Undergrad @ VIIT, Vizag  •  CGPA: 9.47"
+    currently  = "Quantum Computing & Cryptography Intern @ NIC, Bhubaneswar"
+    interests  = ["Post-Quantum Cryptography", "Artificial Intelligence", "Quantum Circuits", "Data"]
+    building   = "things that sit at the intersection of qubits and intelligence ⚛️🧠"
 ```
-- 🎓 AI & Data Science Undergraduate at VIIT, Visakhapatnam | CGPA: 9.56
-- 💻 Interested in AI Systems, Generative AI, and Problem Solving
-- 🧠 Exploring Machine Learning, LLMs, RAG, and AI Engineering
-- ⭐ 2★ CodeChef | 🌍 Top 28% on LeetCode
-- 🌱 Growing through code, projects, and continuous learning
----
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,opencv,sklearn,mysql,git,github,vscode,docker,fastapi" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
-</p>
-
-# 📌 Featured Projects
-
-## 🚗 AccidentSense - An accident detection system
-
-* Built a real-time accident detection system using TensorFlow and OpenCV
-* Integrated emergency alert functionality with GPS-based location tracking
-* Implemented automated accident image capture and alert workflows
-
-## ⚛️ Ground-State Energy Calculation using VQE
-
-* Implemented Variational Quantum Eigensolver (VQE) using Qiskit
-* Estimated molecular ground-state energies of H₂ and LiH molecules
-* Worked on hybrid quantum-classical optimization workflows
+<br/>
 
 ---
 
-# 📖 Currently Learning
+## ⚡ Stack
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Embeddings & Vector Databases
-* Docker
-* FastAPI
-* MLOps
-* AI Agents
-* LangChain & AI Workflows
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML / CV**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
+
+**Data & Viz**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Quantum & Cryptography**
+
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=ibm&logoColor=white)
+![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![PQC](https://img.shields.io/badge/Post--Quantum%20Cryptography-2D2D2D?style=flat-square&logo=keybase&logoColor=white)
+![RSA/ECC](https://img.shields.io/badge/RSA%20%7C%20ECC%20%7C%20DH-4B0082?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
-# 🏅 Achievements
+## 🚀 Featured Projects
 
-* 🏆 Finalist – Hacksagon’26, ABV IIITM Gwalior
-* 🏆 Finalist – Amaravati Quantum Valley Hackathon, APSCHE
-* 🎖️ Academic Excellence Award – 2024
-* 🌍 Top 28% globally on LeetCode
-* ⭐ 2-Star Rated Programmer on CodeChef
+| | Project | Stack | What it does |
+|---|---|---|---|
+| ⚛️ | **[Qubit Quests](https://github.com/divyasri2446/Qubit-Quests)** | Qiskit · NumPy · SciPy · IBM Quantum | VQE to estimate H₂ & LiH ground-state energies via hybrid quantum-classical optimization |
+| 🚨 | **[AccidentSense](https://github.com/divyasri2446/AccidentSense)** | TensorFlow · Keras · OpenCV · Twilio · Geopy | CNN-powered real-time accident detection from video (88% accuracy) + automated GPS emergency alerts |
+| 🔐 | **[post-quantum-cryptography-implementations](https://github.com/divyasri2446/post-quantum-cryptography-implementations)** | liboqs · C++ · Python | NIST-standardized PQC algorithms (Kyber, Dilithium) implemented via liboqs — quantum-resistant alternatives to RSA, ECC & Diffie-Hellman |
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/divyasri-paruvada/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="https://leetcode.com/u/divyasri_24/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=divyasri2446&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasri2446&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" height="160"/>
 
-  <a href="https://www.codechef.com/users/divya_paruvada" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+</div>
 
-  <a href="https://github.com/divyasri2446" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+---
 
-  <a href="mailto:23l31a5480@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🏆 Highlights
 
-# 🌱 Open Source & Learning Journey
+```
+🥇  Academic Excellence Award 2024         —  VIIT, Visakhapatnam
+🌐  Top 28% globally                       —  LeetCode
+⭐  2-Star Rated                            —  CodeChef
+🏁  Finalist  Amaravati Quantum Valley Hackathon  —  APSCHE
+🏁  Finalist  Hacksagon'26                 —  ABV IIITM Gwalior
+```
 
-I use GitHub to document my learning journey, projects, experiments, and exploration in AI, Machine Learning, Generative AI, and Software Engineering.
+---
 
-Always learning. Always building 🚀
+## 🎓 Certifications
 
+📊 Data Science · *Udemy* &nbsp;|&nbsp; 💻 DSA in C++ · *GeeksforGeeks* &nbsp;|&nbsp; 🔧 C++ Programming · *edX*
+
+---
+
+## 🤝 Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyasri-paruvada/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyasri2446)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/divyasri_24/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/divya_paruvada)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyasriparuvada@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>✦ Always learning. Always building. One qubit at a time. ✦</sub>
+</div>
