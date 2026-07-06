@@ -72,18 +72,6 @@ class DivyaSri:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=divyasri2446&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasri2446&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" height="160"/>
-
-</div>
-
----
-
 ## 🏆 Highlights
 
 ```
